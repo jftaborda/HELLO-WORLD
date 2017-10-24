@@ -1,2 +1,4 @@
 # HELLO-WORLD
-My first repository
+
+I like to eat epples and benenes
+I'd like to know what everyone else eats
